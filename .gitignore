@@ -1,0 +1,8 @@
+/wenv/
+**/*_base.html
+**/*0.html
+**/*.zip
+/templates/0/
+/.idea/
+**/db.sqlite
+/templates/js/
